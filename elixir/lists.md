@@ -5,3 +5,4 @@ Some built in functions:
 - `hd(list)` - Return the head of the `list`. Raises `ArgumentError` if list empty
 - `tl(list)` - Return the tail of the `list`. Raises `ArgumentError` if list empty
 - `[new_element | existing_list]` - append `new_element` to `existing_list`
+- `x in list` - check if `x` exist in `list`
